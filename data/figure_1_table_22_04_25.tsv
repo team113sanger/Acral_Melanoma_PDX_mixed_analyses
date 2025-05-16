@@ -1,0 +1,79 @@
+Sample_ID	Patient_WES	Patient_RNAseq	PDX_WES	PDX_RNAseq	Ancestry	PDX_model_available	Mestastasis_in_mice(Xn)	Cell_line_available
+AM001	Yes	Yes	Yes	Yes	Yes	Yes		
+AM002	Yes	Yes			Yes			
+AM003a	Yes	Yes	Yes	Yes		Yes		
+AM003b					Yes		Yes	
+AM003c	Yes							
+AM004	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
+AM005	Yes	Yes			Yes			
+AM006	Yes	Yes	Yes	Yes		Yes	Yes	
+AM007	Yes	Yes	Yes	Yes		Yes	Yes	Yes
+AM008a	Yes							
+AM008b	Yes	Yes			Yes			
+AM009	Yes	Yes			Yes			
+AM010	Yes				Yes			
+AM011	Yes	Yes						
+AM012								
+AM013	Yes				Yes			
+AM014	Yes				Yes			
+AM015a	Yes		Yes	Yes	Yes	Yes	Yes	Yes
+AM015b	Yes	Yes	Yes	Yes		Yes	Yes	Yes
+AM016	Yes		Yes	Yes		Yes	Yes	Yes
+AM017	Yes				Yes			
+AM018	Yes				Yes			
+AM019	Yes	Yes	Yes	Yes	Yes	Yes		
+AM020	Yes	Yes			Yes			
+AM021a	Yes	Yes	Yes	Yes	Yes	Yes		
+AM021b	Yes	Yes	Yes	Yes		Yes		Yes
+AM022a	Yes	Yes	Yes	Yes	Yes	Yes		Yes
+AM022b	Yes	Yes	Yes	Yes		Yes		Yes
+AM023	Yes				Yes			
+AM024								
+AM025a	Yes	Yes	Yes	Yes	Yes	Yes		
+AM025b	Yes	Yes	Yes	Yes		Yes	Yes	
+AM026	Yes	Yes			Yes			
+AM027	Yes	Yes			Yes			
+AM028								
+AM029	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
+AM031	Yes	Yes	Yes	Yes		Yes		
+AM032a	Yes	Yes			Yes			
+AM032b	Yes	Yes	Yes	Yes		Yes		
+AM032c	Yes	Yes				Yes		
+AM033	Yes	Yes			Yes			
+AM034	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
+AM041	Yes	Yes						
+AM042	Yes	Yes			Yes			
+AM043	Yes				Yes			
+AM044	Yes				Yes			
+AM045	Yes	Yes	Yes	Yes	Yes	Yes		
+AM046	Yes	Yes			Yes			
+AM047	Yes	Yes			Yes			
+AM048	Yes	Yes			Yes	Yes		
+AM049	Yes				Yes	Yes		
+AM050	Yes	Yes			Yes	Yes	Yes	Yes
+AM051						Yes	Yes	
+AM052a						Yes		
+AM052b						Yes		
+AM053						Yes		
+AM054								
+AM055								
+AM056								
+AM057a						Yes		Yes
+AM057b								
+AM058						Yes	Yes	
+AM059								
+AM060a						Yes	Yes	
+AM060b						Yes	Yes	
+AM061a								
+AM061b								
+AM062						Yes	Yes	
+AM063								
+AM064								
+AM065						Yes	Yes	
+AM066a						Yes		
+AM066b								
+AM067a						Yes	Yes	
+AM067b						Yes	Yes	
+AM068a						Yes	Yes	
+AM068b						Yes	Yes	
+AM069						Yes	Yes	
