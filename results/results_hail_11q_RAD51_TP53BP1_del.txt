@@ -1,0 +1,23 @@
+tableby_summary_hail_11q_RAD51_TP53BP1_del.txt:
+
+
+|       | NO_RAD51_TP53BP1_del (N=12) | RAD51_TP53BP1_del (N=14) | Total (N=26) | p value|
+|:------|:---------------------------:|:------------------------:|:------------:|-------:|
+|X11q   |                             |                          |              |   0.034|
+|-  No  |         10 (83.3%)          |        6 (42.9%)         |  16 (61.5%)  |        |
+|-  Yes |          2 (16.7%)          |        8 (57.1%)         |  10 (38.5%)  |        |
+
+
+fisher_test_results_hail_11q_RAD51_TP53BP1_del.txt
+
+	Fisher's Exact Test for Count Data
+
+data:  table(Table_RAD51_TP53BP1_merged$Deletion_Status, Table_RAD51_TP53BP1_merged$X11q)
+p-value = 0.0511
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.8342815 78.7011512
+sample estimates:
+odds ratio 
+    6.1605 
+

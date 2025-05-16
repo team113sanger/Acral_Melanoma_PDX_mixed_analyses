@@ -1,0 +1,23 @@
+tableby_summary_hail_22q_ATM_CHECK1_del.txt:
+
+
+|       | ATM_CHECK_del (N=16) | NO_ATM_CHECK_del (N=10) | Total (N=26) | p value|
+|:------|:--------------------:|:-----------------------:|:------------:|-------:|
+|X22q   |                      |                         |              |   0.014|
+|-  No  |      9 (56.2%)       |       10 (100.0%)       |  19 (73.1%)  |        |
+|-  Yes |      7 (43.8%)       |        0 (0.0%)         |  7 (26.9%)   |        |
+
+
+fisher_test_results_hail_22q_ATM_CHECK1_del.txt
+
+	Fisher's Exact Test for Count Data
+
+data:  table(Table_ATM_merged$Deletion_Status, Table_ATM_merged$X22q)
+p-value = 0.02268
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.0000000 0.8699821
+sample estimates:
+odds ratio 
+         0 
+

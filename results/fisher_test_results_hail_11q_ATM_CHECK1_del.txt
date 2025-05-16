@@ -1,0 +1,12 @@
+
+	Fisher's Exact Test for Count Data
+
+data:  table(Table_ATM_merged$Deletion_Status, Table_ATM_merged$X11q)
+p-value = 0.03674
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.001785112 0.972223294
+sample estimates:
+odds ratio 
+0.09490596 
+
