@@ -135,7 +135,7 @@ print(results_table)
 # Find the index of the region "11q" in the results table
 indice_11q <- which(results_table$Regiao == "11q")
 
-# Access adjusted p-values ​​for "5p"
+# Access adjusted p-values for "5p"
 adjusted_p_value_fcs_11q <- results_table$Adjusted_P_Value_FCS[indice_11q]
 
 # Plot FCS
