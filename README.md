@@ -1,21 +1,54 @@
-# Acral_Melanoma_PDX_mixed_analyses
-A collection of various analyses for the Acral Melanoma PDX paper
+# Acral Melanoma PDX - Mixed Analyses
 
+This repository contains analysis scripts, metadata, and results for the Acral Melanoma PDX study, including code used to generate key figures in the publication.
 
-To reproducing our R environment we used renv package. The project contains an renv file, which records the dependencies used.
-If you're interested in reproducing our R environment:
+## 📌 Repository Overview
+
+### Key Figures Generated
+- **Figure 1b**: Overview of samples and biorepository information
+- **Figure S3b-c**: Comparison of BCS/FCS copy number burden across tumor subtypes
+- **Figure S3a**: Correlation of copy number gains and gene expression in hailstorms
+- **Figure 4a**: SNV/indel and BCS/FCS correlations between AM-PDXs and patient tumors
+- **Figure S4c**: Relative CNA and mutational signature plots
+
+## 🛠️ Setup & Reproducibility
+
+### R Environment
+We used `renv` for dependency management. To reproduce our environment:
 
 ```R
-renv::restore() # To rebuild an environment from the renv.lockfile
+# Install renv if needed
+if (!require("renv")) install.packages("renv")
+
+# Restore the project environment
+renv::restore()
 ```
 
+**Environment Details:**
+- R version: 4.4.1
+- Dependencies: See `renv.lock` in each analysis folder
 
+### File Path Management
+We used the `here` package for robust path handling:
+- Automatically detects project root
+- Creates platform-independent paths
+- Seamless RStudio integration
 
+## 🔗 External Data Sources
 
-The `here` package was used to manage our file paths. 
+1. **Sequenza Output Data**:  
+   Available at [Figshare](https://doi.org/10.6084/m9.figshare.29088173)
 
-All R scripts were run using `R v4.4.1` and the packaged dependencies for each analysis are detailed within the `renv.lock` file of each analysis folder in the `scripts` directory.
+2. **Copy Number Scores (FCS/BCS)**:  
+   Generated using [CNApp](https://tools.idibaps.org/CNApp/) with:
+   - SEQUENZA segmentation data as input
+   - Default parameters
 
-Contact
-  If you have any questions or comments about this repository, please contact:
-  - Annie Cristhine Moraes Sousa Squiavinato : (as81@sanger.ac.uk)
+## 📝 Additional Notes
+- All scripts are contained in the `scripts/` directory
+- Each analysis folder contains its specific dependencies
+
+## ✉️ Contact
+For questions about this repository or analyses:  
+**Annie Cristhine Moraes Sousa Squiavinato**  
+📧 as81@sanger.ac.uk
