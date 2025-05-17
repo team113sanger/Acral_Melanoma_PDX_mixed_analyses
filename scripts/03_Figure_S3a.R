@@ -62,6 +62,8 @@ gene_dat <- getBM(
 gene_dat$chromosome_name <- gsub("^", "chr", gene_dat$chromosome_name)  
 genes_gr <- as(dplyr::rename(gene_dat, "start" = start_position, "end" = end_position), "GRanges")  
 
+# the data of data/BrazilianPop_PairedSamples_Hum-PDX_SequenzaFiles_Jan2025/ need to be download from
+# https://doi.org/10.6084/m9.figshare.29088173 
 # copy number segments  
 segment_files <- dir_ls("./data/BrazilianPop_PairedSamples_Hum-PDX_SequenzaFiles_Jan2025/",  
                         glob = "*segments.txt",  
