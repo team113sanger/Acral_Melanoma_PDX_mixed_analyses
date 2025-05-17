@@ -1,8 +1,8 @@
 # Acral Melanoma PDX - Mixed Analyses
 
-This repository contains analysis scripts, metadata, and results for the Acral Melanoma PDX study, including code used to generate figures in the publication.
+This repository contains analysis scripts, metadata, and results for the Acral Melanoma PDX study, including code used to generate figures for the article.
 
-## 📌 Repository Overview
+## Repository Overview
 
 ### Key Figures Generated
 - **Figure 1b**: Overview of samples and biorepository information
@@ -11,7 +11,7 @@ This repository contains analysis scripts, metadata, and results for the Acral M
 - **Figure 4a**: SNV/indel and BCS/FCS correlations between AM-PDXs and patient tumors
 - **Figure S4c**: Relative CNA and mutational signature plots
 
-## 🛠️ Setup & Reproducibility
+## Setup & Reproducibility
 
 ### R Environment
 We used `renv` for dependency management. To reproduce our environment:
@@ -34,7 +34,7 @@ We used the `here` package for robust path handling:
 - Creates platform-independent paths
 - Seamless RStudio integration
 
-## 🔗 External Data Sources
+## External Data Sources
 
 1. **Sequenza Output Data**:  
    Available at [Figshare](https://doi.org/10.6084/m9.figshare.29088173)
@@ -44,7 +44,7 @@ We used the `here` package for robust path handling:
    - SEQUENZA segmentation data as input
    - Default parameters
 
-## 📝 Additional Notes
+## Additional Notes
 - All scripts are contained in the `scripts/` directory
 - Each analysis folder contains its specific dependencies
 
