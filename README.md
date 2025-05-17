@@ -1,6 +1,6 @@
 # Acral Melanoma PDX - Mixed Analyses
 
-This repository contains analysis scripts, metadata, and results for the Acral Melanoma PDX study, including code used to generate key figures in the publication.
+This repository contains analysis scripts, metadata, and results for the Acral Melanoma PDX study, including code used to generate figures in the publication.
 
 ## 📌 Repository Overview
 
