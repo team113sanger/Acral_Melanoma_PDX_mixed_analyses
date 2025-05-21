@@ -10,6 +10,7 @@ This repository contains analysis scripts, metadata, and results for the Acral M
 - **Figure S3a**: Correlation of copy number gains and gene expression in hailstorms
 - **Figure 4a**: SNV/indel and BCS/FCS correlations between AM-PDXs and patient tumors
 - **Figure S4c**: Relative CNA and mutational signature plots
+- **Figure 5a**: Heatmap showing an overview of the pharmacological screen performed in AM-PDX-derived cell lines
 
 ## Setup & Reproducibility
 
@@ -47,6 +48,7 @@ We used the `here` package for robust path handling:
 ## Additional Notes
 - All scripts are contained in the `scripts/` directory
 - Each analysis folder contains its specific dependencies
+- Analysis from 06 script was created by Aguiar F.C., Carvalho D.G and Sousa Squiavinato A.C.M.
 
 ## ✉️ Contact
 For questions about this repository or analyses:  
