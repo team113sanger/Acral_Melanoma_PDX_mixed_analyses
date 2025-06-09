@@ -15,7 +15,7 @@ This repository contains analysis scripts, metadata, and results for the Acral M
 ## Setup & Reproducibility
 
 ### R Environment
-We used `renv` for dependency management. To reproduce our environment:
+If you're interested in [reproducing the R environment using `renv`](https://rstudio.github.io/renv/reference/index.html) please follow the official documentation.
 
 ```R
 # Install renv if needed
@@ -35,7 +35,7 @@ We used the `here` package for robust path handling:
 - Creates platform-independent paths
 - Seamless RStudio integration
 
-## External Data Sources
+## Data Sources
 
 1. **Sequenza Output Data**:  
    Available at [Figshare](https://doi.org/10.6084/m9.figshare.29088173)
