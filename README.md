@@ -20,7 +20,6 @@ relative paths only, and assertions on the numbers quoted in the manuscript.
 ## Running
 
 ```bash
-cd INCA_res
 R -e 'renv::restore()'        # once
 Rscript scripts/<script>.R
 ```
@@ -66,7 +65,7 @@ generate the figures and statistics included in the response to reviewers.
 **Sequenza segmentation output** —
 [Figshare](https://figshare.com/articles/dataset/Sequenza_segmentation_output_files/34745433)
 
-**Copy-number scores (FCS/BCS/GCS)** — generated with CNApp, run from a local installation, not the web interface, using the SEQUENZA segmentation as input, default parameters, and the ploidy that SEQUENZA estimated for that same sample. The per-sample ploidy values supplied to CNApp are in data/copy_number_BRA_adjPloidy_06_10.tsv.
+**Copy-number scores (FCS/BCS/GCS)** — generated with CNApp tool, run from a local installation, not the web interface, using the SEQUENZA segmentation as input, default parameters, and the ploidy that SEQUENZA estimated for that same sample. The per-sample ploidy values supplied to CNApp are in data/copy_number_BRA_adjPloidy_06_10.tsv.
 
 **Drug screen** — IC50 values and the concentration range assayed per compound
 are in Extended Data Table S7.
