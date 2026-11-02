@@ -1,0 +1,179 @@
+Tumor_Sample_Barcode	tissue_phenotype	sample_type	tissue_histology	sex	PDX_passage	seq_batch	project_id_used	Supplier_Sample_ID	SAMPLE_USE
+PD53330a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch1	3248	AM001-X1_gDNA_tumour	Keep _it_paper
+PD53330b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM001_gDNA_blood	Keep _it_paper
+PD53330c	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM001_gDNA_tumour	Keep _it_paper
+PD53331a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM002_gDNA_tumour	Keep _it_paper
+PD53331b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM002_gDNA_blood	Keep _it_paper
+PD53332a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch1	3248	AM003a-X1_gDNA_tumour	Keep _it_paper
+PD53332b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM003_gDNA_blood	Keep _it_paper
+PD53332c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P2	batch1	3248	AM003a-X2_gDNA_tumour	Keep _it_paper
+PD53332d	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM003a_gDNA_tumour	Keep _it_paper
+PD53332e	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM003c_gDNA_tumour	Keep _it_paper
+PD53333a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch1	3248	AM004-X1_gDNA_tumour	Keep _it_paper
+PD53333b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM004_gDNA_blood	Keep _it_paper
+PD53333c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P2	batch1	3248	AM004-X2_gDNA_tumour	Keep _it_paper
+PD53333d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P3	batch1	3248	AM004-X3_gDNA_tumour	Keep _it_paper
+PD53333e_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P4	batch1	3248	AM004-X4_gDNA_tumour	Keep _it_paper
+PD53333f	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM004_gDNA_tumour	Keep _it_paper
+PD53334a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM005_gDNA_tumour	Keep _it_paper
+PD53334b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM005_gDNA_blood	Keep _it_paper
+PD53335a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM006-X1_gDNA_tumour	Keep _it_paper
+PD53335c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P2	batch1	3248	AM006-X2_gDNA_tumour	Keep _it_paper
+PD53335d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P3	batch1	3248	AM006-X3_gDNA_tumour	Keep _it_paper
+PD53335e	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM006_gDNA_tumour	Keep _it_paper
+PD53336a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM007-X1_gDNA_tumour	Keep _it_paper
+PD53336c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P2	batch1	3248	AM007-X2_gDNA_tumour	Keep _it_paper
+PD53336d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P3	batch1	3248	AM007-X3_gDNA_tumour	Keep _it_paper
+PD53336e_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P4	batch1	3248	AM007-X4_gDNA_tumour	Keep _it_paper
+PD53336f	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM007_gDNA_tumour	Keep _it_paper
+PD53336l	Cell_line	Cell_line	Tumour_lymph_node_metastasis	F	P3	batch2	2729	AM007-X3-Cell2	Keep _it_paper
+PD53337a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM008a_gDNA_tumour	Keep _it_paper
+PD53337b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM008_gDNA_blood	Keep _it_paper
+PD53337c	skin melanoma	Tumour	Tumour_recurrence	M		batch1	2729	AM008b_gDNA_tumour	Keep _it_paper
+PD53338a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM009_gDNA_tumour	Keep _it_paper
+PD53338b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM009_gDNA_blood	Keep _it_paper
+PD53339a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM010_gDNA_tumour	Keep _it_paper
+PD53339b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM010_gDNA_blood	Keep _it_paper
+PD53340a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM011_gDNA_tumour	Keep _it_paper
+PD53341a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM013_gDNA_tumour	Keep _it_paper
+PD53341b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM013_gDNA_blood	Keep _it_paper
+PD53342a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM014_gDNA_tumour	Keep _it_paper
+PD53342b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM014_gDNA_blood	Keep _it_paper
+PD53343a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch1	3248	AM015a-X1_gDNA_tumour	Keep _it_paper
+PD53343b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM015_gDNA_blood	Keep _it_paper
+PD53343c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM015b-X1_gDNA_tumour	Keep _it_paper
+PD53343d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P2	batch1	3248	AM015a-X2_gDNA_tumour	Keep _it_paper
+PD53343e_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P3	batch1	3248	AM015a-X3_gDNA_tumour	Keep _it_paper
+PD53343f_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P2	batch1	3248	AM015b-X2_gDNA_tumour	Keep _it_paper
+PD53343g_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P3	batch1	3248	AM015b-X3_gDNA_tumour	Keep _it_paper
+PD53343h	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM015a_gDNA_tumour	Keep _it_paper
+PD53343i	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM015b_gDNA_tumour	Keep _it_paper
+PD53343j	Cell_line	Cell_line	Tumour_primary	F	P3	batch2	2729	AM015a-X3-Cell2	Keep _it_paper
+PD53343k	Cell_line	Cell_line	Tumour_lymph_node_metastasis	F	P2	batch2	2729	AM015b-X2-Cell	Keep _it_paper
+PD53344a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P1	batch1	3248	AM016-X1_gDNA_tumour	Keep _it_paper
+PD53344c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P2	batch1	3248	AM016-X2_gDNA_tumour	Keep _it_paper
+PD53344d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P3	batch1	3248	AM016-X3_gDNA_tumour	Keep _it_paper
+PD53344e_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P4	batch1	3248	AM016-X4_gDNA_tumour	Keep _it_paper
+PD53344f	skin melanoma	Tumour	Tumour_lymph_node_metastasis	M		batch1	2729	AM016_gDNA_tumour	Keep _it_paper
+PD53344l	Cell_line	Cell_line	Tumour_lymph_node_metastasis	M	P4	batch2	2729	AM016-X4-Cell2	Keep _it_paper
+PD53345a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM017_gDNA_tumour	Keep _it_paper
+PD53345b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM017_gDNA_blood	Keep _it_paper
+PD53346a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM018_gDNA_tumour	Keep _it_paper
+PD53346b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM018_gDNA_blood	Keep _it_paper
+PD53347a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch1	3248	AM019-X1_gDNA_tumour	Keep _it_paper
+PD53347b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM019_gDNA_blood	Keep _it_paper
+PD53347c	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM019_gDNA_tumour	Keep _it_paper
+PD53348a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM020_gDNA_tumour	Keep _it_paper
+PD53348b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM020_gDNA_blood	Keep _it_paper
+PD53349a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch1	3248	AM021a-X1_gDNA_tumour	Keep _it_paper
+PD53349b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM021_gDNA_blood	Keep _it_paper
+PD53349c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P1	batch1	3248	AM021b-X1_gDNA_tumour	Keep _it_paper
+PD53349d	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM021a_gDNA_tumour	Keep _it_paper
+PD53349e	skin melanoma	Tumour	Tumour_lymph_node_metastasis	M		batch1	2729	AM021b_gDNA_tumour	Keep _it_paper
+PD53349f	Cell_line	Cell_line	Tumour_lymph_node_metastasis	M	P2	batch2	2729	AM021b-X2-Cell2	Keep _it_paper
+PD53350a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch1	3248	AM022a-X1_gDNA_tumour	Keep _it_paper
+PD53350b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM022_gDNA_blood	Keep _it_paper
+PD53350c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P1	batch1	3248	AM022b-X1_gDNA_tumour	Keep _it_paper
+PD53350d	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM022a_gDNA_tumour	Keep _it_paper
+PD53350e	skin melanoma	Tumour	Tumour_lymph_node_metastasis	M		batch1	2729	AM022b_gDNA_tumour	Keep _it_paper
+PD53350f	Cell_line	Cell_line	Tumour_primary	M	P1	batch2	2729	AM022a-X1-Cell2	Keep _it_paper
+PD53351a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	M		batch1	2729	AM023_gDNA_tumour	Keep _it_paper
+PD53351b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM023_gDNA_blood	Keep _it_paper
+PD53352a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_recurrence	F	P1	batch1	3248	AM025a-X1_gDNA_tumour	Keep _it_paper
+PD53352b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM025_gDNA_blood	Keep _it_paper
+PD53352c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM025b-X1_gDNA_tumour	Keep _it_paper
+PD53352d	skin melanoma	Tumour	Tumour_recurrence	F		batch1	2729	AM025a_gDNA_tumour	Keep _it_paper
+PD53352e	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM025b_gDNA_tumour	Keep _it_paper
+PD53353a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM026_gDNA_tumour	Keep _it_paper
+PD53353b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM026_gDNA_blood	Keep _it_paper
+PD53354a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM027_gDNA_tumour	Keep _it_paper
+PD53354b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM027_gDNA_blood	Keep _it_paper
+PD53355a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch1	3248	AM029-X1_gDNA_tumour	Keep _it_paper
+PD53355b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM029_gDNA_blood	Keep _it_paper
+PD53355c	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM029_gDNA_tumour	Keep _it_paper
+PD53356a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM031-X1 _gDNA_tumour	Keep _it_paper
+PD53356c	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM031_gDNA_tumour	Keep _it_paper
+PD53357a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM032b-X1_gDNA_tumour	Keep _it_paper
+PD53357b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM032_gDNA_blood	Keep _it_paper
+PD53357c	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM032a_gDNA_tumour	Keep _it_paper
+PD53357d	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM032b_gDNA_tumour	Keep _it_paper
+PD53357e	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM032c_gDNA_tumour	Keep _it_paper
+PD53358a	skin melanoma	Tumour	Tumour_recurrence	F		batch1	2729	AM033_gDNA_tumour	Keep _it_paper
+PD53358b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM033_gDNA_blood	Keep _it_paper
+PD53359a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch1	3248	AM034-X1_gDNA_tumour	Keep _it_paper
+PD53359b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM034_gDNA_blood	Keep _it_paper
+PD53359c	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch1	2729	AM034_gDNA_tumour	Keep _it_paper
+PD53360a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM041_gDNA_tumour	Keep _it_paper
+PD53361a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM042_gDNA_tumour	Keep _it_paper
+PD53361b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM042_gDNA_blood	Keep _it_paper
+PD53362a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM043_gDNA_tumour	Keep _it_paper
+PD53362b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM043_gDNA_blood	Keep _it_paper
+PD53363a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM044_gDNA_tumour	Keep _it_paper
+PD53363b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM044_gDNA_blood	Keep _it_paper
+PD53364a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch1	3248	AM045-X1_gDNA_tumour	Keep _it_paper
+PD53364b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM045_gDNA_blood	Keep _it_paper
+PD53364c	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM045_gDNA_tumour	Keep _it_paper
+PD53365a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM046_gDNA_tumour	Keep _it_paper
+PD53365b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM046_gDNA_blood	Keep _it_paper
+PD53366a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM047_gDNA_tumour	Keep _it_paper
+PD53366b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM047_gDNA_blood	Keep _it_paper
+PD53367a	skin melanoma	Tumour	Tumour_primary	F		batch1	2729	AM048_gDNA_tumour	Keep _it_paper
+PD53367b	Blood	Normal	Peripheral_blood	F		batch1	2729	AM048_gDNA_blood	Keep _it_paper
+PD53368a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM049_ X1_gDNA_tumour	Keep _it_paper
+PD53368b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM049_gDNA_blood	Keep _it_paper
+PD53369a	skin melanoma	Tumour	Tumour_primary	M		batch1	2729	AM050_gDNA_tumour	Keep _it_paper
+PD53369b	Blood	Normal	Peripheral_blood	M		batch1	2729	AM050_gDNA_blood	Keep _it_paper
+PD70589a	Cell_line	Cell_line	Tumour_primary	F	P2	batch2	2729	AM057a-X2-Cell2	Keep _it_paper
+PD70963a	skin melanoma	Tumour	Tumour_primary	M		batch2	2729	AM051_gDNA_tumour	Keep _it_paper
+PD70963b	Blood	Normal	Peripheral_blood	M		batch2	2729	AM051_gDNA_blood	Keep _it_paper
+PD70963c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch3	3248	AM051_X1_gDNA_tumour	Keep _it_paper
+PD70964a	skin melanoma	Tumour	Tumour_primary	M		batch2	2729	AM052a_gDNA_tumour	Keep _it_paper
+PD70964b	Blood	Normal	Peripheral_blood	M		batch2	2729	AM052_gDNA_blood	Keep _it_paper
+PD70964c	skin melanoma	Tumour	Tumour_lymph_node_metastasis	M		batch2	2729	AM052b_gDNA_tumour	Keep _it_paper
+PD70964d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch3	3248	AM052a_X1_gDNA_tumour	Keep _it_paper
+PD70964e_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P1	batch3	3248	AM052b_X1_gDNA_tumour	Keep _it_paper
+PD70965a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM053_gDNA_tumour	Keep _it_paper
+PD70965b	Blood	Normal	Peripheral_blood	F		batch2	2729	AM053_gDNA_blood	Keep _it_paper
+PD70966a	skin melanoma	Tumour	Tumour_primary	F		batch2	2729	AM057a_gDNA_tumour	Keep _it_paper
+PD70966c	Cell_line	Cell_line	Tumour_primary	F	P2	batch2	2729	AM057a-X2-Cell	Keep _it_paper
+PD70966d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch3	3248	AM057a_X1_gDNA_tumour	Keep _it_paper
+PD70967a	skin melanoma	Tumour	Tumour_primary	M		batch2	2729	AM058_gDNA_tumour	Keep _it_paper
+PD70967b	Blood	Normal	Peripheral_blood	M		batch2	2729	AM058_gDNA_blood	Keep _it_paper
+PD70967c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch3	3248	AM058_X1_gDNA_tumour	Keep _it_paper
+PD70968a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM060a_gDNA_tumour	Keep _it_paper
+PD70968b	Blood	Normal	Peripheral_blood	F		batch2	2729	AM060_gDNA_blood	Keep _it_paper
+PD70968c	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM060b_gDNA_tumour	Keep _it_paper
+PD70968d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch3	3248	AM060a_X1_gDNA_tumour	Keep _it_paper
+PD70968e_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch3	3248	AM060b_X1_gDNA_tumour	Keep _it_paper
+PD70969a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	M		batch2	2729	AM062_gDNA_tumour	Keep _it_paper
+PD70969b	Blood	Normal	Peripheral_blood	M		batch2	2729	AM062_gDNA_blood	Keep _it_paper
+PD70969c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	M	P1	batch3	3248	AM062_X1_gDNA_tumour	Keep _it_paper
+PD70970a	skin melanoma	Tumour	Tumour_primary	M		batch2	2729	AM065_gDNA_tumour	Keep _it_paper
+PD70970b	Blood	Normal	Peripheral_blood	M		batch2	2729	AM065_gDNA_blood	Keep _it_paper
+PD70970c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch3	3248	AM065_X1_gDNA_tumour	Keep _it_paper
+PD70971a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM067b_gDNA_tumour	Keep _it_paper
+PD70971b	Blood	Normal	Peripheral_blood	F		batch2	2729	AM067_gDNA_blood	Keep _it_paper
+PD70971c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch2	3248	AM067b-X1_gDNA_tumour	Keep _it_paper
+PD70971d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch3	3248	AM067a_X1_gDNA_tumour	Keep _it_paper
+PD70972a	skin melanoma	Tumour	Tumour_primary	F		batch2	2729	AM068a_gDNA_tumour	Keep _it_paper
+PD70972b	Blood	Normal	Peripheral_blood	F		batch2	2729	AM068_gDNA_blood	Keep _it_paper
+PD70972c	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM068b_gDNA_tumour	Keep _it_paper
+PD70972d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch3	3248	AM068b_X1_gDNA_tumour	Keep _it_paper
+PD70973a	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM069_gDNA_tumour	Keep _it_paper
+PD70973b	Blood	Normal	Peripheral_blood	F		batch2	2729	AM069_gDNA_blood	Keep _it_paper
+PD70973c_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch3	3248	AM069_X1_gDNA_tumour	Keep _it_paper
+PD70976a	skin melanoma	Tumour	Tumour_primary	F		batch2	2729	AM066a_gDNA_tumour	Keep _it_paper
+PD70976b	Blood	Normal	Peripheral_blood	F		batch2	2729	AM066_gDNA_blood	Keep _it_paper
+PD70976c	skin melanoma	Tumour	Tumour_lymph_node_metastasis	F		batch2	2729	AM066b_gDNA_tumour	Keep _it_paper
+PD70976d_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch3	3248	AM066a_X1_gDNA_tumour	Keep _it_paper
+PD70978a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	F	P1	batch2	3248	AM048-X1_gDNA_tumour	Keep _it_paper
+PD70980a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_primary	M	P1	batch2	3248	AM050-X1_gDNA_tumour	Keep _it_paper
+PD70980c	Cell_line	Cell_line	Tumour_primary	M	P2	batch2	2729	AM050-X2-Cell	Keep _it_paper
+PD70981a	Cell_line	Cell_line	Tumour_lymph_node_metastasis	F	P3	batch2	2729	AM007-X3-Cell	Keep _it_paper
+PD70982a	Cell_line	Cell_line	Tumour_primary	F	P3	batch2	2729	AM015a-X3-Cell	Keep _it_paper
+PD70982c	Cell_line	Cell_line	Tumour_lymph_node_metastasis	F	P2	batch2	2729	AM015b-X2-Cell2	Keep _it_paper
+PD70983a	Cell_line	Cell_line	Tumour_lymph_node_metastasis	M	P4	batch2	2729	AM016-X4-Cell	Keep _it_paper
+PD70984a	Cell_line	Cell_line	Tumour_lymph_node_metastasis	M	P2	batch2	2729	AM021b-X2-Cell	Keep _it_paper
+PD70985a	Cell_line	Cell_line	Tumour_primary	M	P1	batch2	2729	AM022a-X1-Cell	Keep _it_paper
+PD70985c	Cell_line	Cell_line	Tumour_lymph_node_metastasis	M	P2	batch2	2729	AM022b-X2-Cell	Keep _it_paper
+PD70987a_hum	skin melanoma / patient-derived xenograft	PDX	Tumour_lymph_node_metastasis	F	P1	batch2	3248	AM032c-X1_gDNA_tumour	Keep _it_paper

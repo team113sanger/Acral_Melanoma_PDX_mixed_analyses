@@ -1,0 +1,3 @@
+Gene	n_neutral	n_loss	testable	med_neutral	med_loss	delta	shapiro_p	p_ttest	p_wilcox	normalisation	cn_table	ploidy_source
+ATM	12	18	TRUE	11.285249867208822	10.825708006342772	-0.4595418608660502	0.5837804983209741	0.027583856241389038	0.029244947944920385	VST-normalised counts	copy_number_BRA_adjPloidy_06_10.tsv	mean_ploidy_adj
+CHEK1	12	19	TRUE	9.309650064260973	8.533270551056665	-0.7763795132043079	0.08945152407811781	0.07026392113216488	0.07111955592245	VST-normalised counts	copy_number_BRA_adjPloidy_06_10.tsv	mean_ploidy_adj

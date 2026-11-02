@@ -1,0 +1,129 @@
+GENE,cell_line,n_cat,cat_1,cat_2,all_cats,n_events,logFC,FDR,split_by_category,split_by_event
+ANAPC1,AM007,1,ORF disruption,ORF disruption,ORF disruption,3,-0.182727210155541,0.00232884709073094,FALSE,TRUE
+ANAPC1,AM016,1,ORF disruption,ORF disruption,ORF disruption,3,-0.526431815700203,6.63011010091169e-5,FALSE,TRUE
+ARIH1,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.0774654454389884,0.035383800270159,FALSE,FALSE
+ARIH1,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.0797455471819193,0.195732110948671,FALSE,FALSE
+ATP2A2,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.0962831515893646,0.0243059080034589,FALSE,FALSE
+ATP2A2,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.247656912211721,0.00122761633970266,FALSE,FALSE
+ATP6V1H,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,0.508938092958744,1.16332056460857e-6,FALSE,TRUE
+ATP6V1H,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.460724804413981,2.8540273892689e-5,FALSE,FALSE
+BRD2,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.246430813330108,5.29162271688651e-4,FALSE,FALSE
+BRD2,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.0314666882803582,0.570510969369024,FALSE,FALSE
+CARS,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,3,0.360721406871193,1.51705227443249e-5,TRUE,TRUE
+CARS,AM016,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,-0.283810530220642,0.00103857192837116,TRUE,TRUE
+CCT6A,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.191030202957871,8.92602115053589e-4,FALSE,FALSE
+CCT6A,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.034530042454266,0.528182339398862,FALSE,FALSE
+CDC123,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.436508915426398,8.20264830157614e-6,FALSE,FALSE
+CDC123,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.0249517128991376,0.640286985035079,FALSE,FALSE
+CDC16,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.59698691942907,7.97949086604242e-7,FALSE,FALSE
+CDC16,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.716134011645951,1.85557706254848e-6,FALSE,FALSE
+CDC5L,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.586975972355313,4.58104483518217e-7,FALSE,FALSE
+CDC5L,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.262670701172211,9.43686095781254e-4,FALSE,FALSE
+CDK2,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,-0.663996660386147,2.74095936998239e-7,FALSE,TRUE
+CDK2,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,0.019057716784007,0.70745257441486,FALSE,TRUE
+CHEK1,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,-0.601833699734456,1.13113683669072e-5,FALSE,FALSE
+CHEK1,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.268751907404384,0.00425662600039947,FALSE,FALSE
+COPS8,AM007,2,ORF disruption,Noncoding,ORF disruption + Noncoding,2,0.383793908729168,7.04822831689335e-6,TRUE,TRUE
+COPS8,AM016,2,ORF disruption,Noncoding,ORF disruption + Noncoding,2,-0.17127600496744,0.0129179209143295,TRUE,TRUE
+CPSF2,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.140937319233164,0.00570241605489422,FALSE,FALSE
+CPSF2,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.107955014908835,0.158409262185176,FALSE,FALSE
+CTDP1,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,0.495616751735199,6.45733638613009e-6,TRUE,TRUE
+CTDP1,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.144416269540459,0.0808927003591483,FALSE,FALSE
+DBR1,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.342604004138464,1.1905966967899e-4,FALSE,FALSE
+DBR1,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.219079730356717,0.00406676028012777,FALSE,FALSE
+ELP2,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,-0.408951070617814,1.41582305419304e-5,FALSE,FALSE
+ELP2,AM016,1,ORF disruption,ORF disruption,ORF disruption,3,-0.526176928721577,8.52131606618023e-6,FALSE,TRUE
+ELP5,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,3,-0.19917299927899,0.0025584968966361,TRUE,TRUE
+ELP5,AM016,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,-0.330088247593425,9.96109226751443e-4,TRUE,TRUE
+EXOSC2,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.426020117948514,7.72515705302825e-5,FALSE,FALSE
+EXOSC2,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.7632241113866,7.03358859275434e-6,FALSE,FALSE
+EXOSC9,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.186816701055786,0.00182355448879417,FALSE,FALSE
+EXOSC9,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.528906717529613,2.23437878844628e-5,FALSE,FALSE
+FAM32A,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.56948984575871,3.8339319880871e-7,FALSE,FALSE
+FAM32A,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.155948835622589,0.0240072890053513,FALSE,FALSE
+FIP1L1,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,0.191740574615148,3.6715621233864e-4,FALSE,TRUE
+FIP1L1,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,0.363523868156816,1.83759128480618e-4,FALSE,TRUE
+GPN1,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,-0.551102359732386,7.61552698279748e-6,FALSE,FALSE
+GPN1,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-1.00600170560049,1.12589879366223e-6,FALSE,FALSE
+GUK1,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.020470249101488,0.791886461974538,FALSE,FALSE
+GUK1,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.0812408869032025,0.360649398079323,FALSE,FALSE
+HMGCS1,AM007,1,Noncoding,Noncoding,Noncoding,1,0.144495280925652,0.00239420541544844,FALSE,FALSE
+HMGCS1,AM016,1,Noncoding,Noncoding,Noncoding,1,0.253238242693918,0.00163513222316381,FALSE,FALSE
+HSPA9,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,0.137726836424358,0.00181211664902489,TRUE,TRUE
+HSPA9,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.180522581626467,0.00487410577617182,FALSE,FALSE
+HTATSF1,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.232219213283035,2.66798997259722e-4,FALSE,FALSE
+HTATSF1,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.163111329990439,0.0174787941334706,FALSE,FALSE
+INTS8,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.260826421388556,7.72941004861907e-4,FALSE,FALSE
+INTS8,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.36074529407344,6.28419695609485e-4,FALSE,FALSE
+LARS,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.599064855233688,1.17411251154793e-6,FALSE,FALSE
+LARS,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.182247717496845,0.00791502890957439,FALSE,FALSE
+LSM2,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,-0.105331638816113,0.348887424272856,FALSE,FALSE
+LSM2,AM016,1,ORF disruption,ORF disruption,ORF disruption,2,-0.178212541752589,0.0563055065205017,FALSE,TRUE
+LSM5,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.0821089520225001,0.353392714465206,FALSE,FALSE
+LSM5,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.152248331681972,0.073923577217274,FALSE,FALSE
+MED20,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.360680996861348,9.22212618309383e-5,FALSE,FALSE
+MED20,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.182865441938688,0.00669900085805655,FALSE,FALSE
+MED31,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.615168883597251,4.22500842240867e-4,FALSE,FALSE
+MED31,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.176305069791016,0.219785621740168,FALSE,FALSE
+MED6,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,0.685602814513121,5.09968038580513e-7,TRUE,TRUE
+MED6,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.101836057655359,0.133299355283486,FALSE,FALSE
+NEDD1,AM007,2,ORF disruption,NA / Uncertain,ORF disruption + NA / Uncertain,2,-0.18430360379487,0.00225260991915335,TRUE,TRUE
+NEDD1,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.126671640884925,0.117397547680344,FALSE,FALSE
+NLE1,AM007,1,ORF disruption,ORF disruption,ORF disruption,2,0.478285382569169,1.1332689006851e-5,FALSE,TRUE
+NLE1,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.264792716316477,0.00141193094203413,FALSE,FALSE
+NUP214,AM007,1,ORF disruption,ORF disruption,ORF disruption,3,0.369736046738343,4.01125709742514e-4,FALSE,TRUE
+NUP214,AM016,1,ORF disruption,ORF disruption,ORF disruption,2,-0.296985891886592,0.00120103536732981,FALSE,TRUE
+PCID2,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.176732169605892,0.00194748668816082,FALSE,FALSE
+PCID2,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.708260278093797,5.0226247445356e-6,FALSE,FALSE
+PHB,AM007,1,Noncoding,Noncoding,Noncoding,1,0.386479975020717,9.68649042409684e-5,FALSE,FALSE
+PHB,AM016,1,Noncoding,Noncoding,Noncoding,1,-0.0505319522240401,0.361967351155421,FALSE,FALSE
+POLR3C,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,-0.611062277746554,8.57629652754351e-7,FALSE,FALSE
+POLR3C,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.986110382023837,1.53646495350483e-6,FALSE,FALSE
+PRPF38A,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.338602679379742,0.0356549549649869,FALSE,FALSE
+PRPF38A,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.120595594179891,0.378083910564923,FALSE,FALSE
+PRPF40A,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.316721431382533,2.64203800127361e-5,FALSE,FALSE
+PRPF40A,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.174560592852472,0.0160946088670246,FALSE,FALSE
+PSMA4,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.370852937504684,1.71066690561336e-4,FALSE,FALSE
+PSMA4,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.0745997255592685,0.228650860596956,FALSE,FALSE
+PSMD14,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.543971151777912,1.10961413220127e-5,FALSE,FALSE
+PSMD14,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.36810614322385,2.05368679429685e-4,FALSE,FALSE
+RAD51C,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.644413279364803,1.37284170187928e-6,FALSE,FALSE
+RAD51C,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.154604448334283,0.0487136895892384,FALSE,FALSE
+RBM39,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,1.06511174408876,5.55952928472047e-8,FALSE,FALSE
+RBM39,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.875170922724458,7.67884610614589e-7,FALSE,FALSE
+RFK,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.447019098850764,1.36026945392757e-5,FALSE,FALSE
+RFK,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,0.383227834913566,2.93190189974724e-4,FALSE,FALSE
+RNGTT,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.0157299078306524,0.756822995369362,FALSE,FALSE
+RNGTT,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.00884893837700043,0.913923174065172,FALSE,FALSE
+RPL10A,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.134013464548837,0.248219208758176,FALSE,FALSE
+RPL10A,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.0488701867584042,0.598318999368848,FALSE,FALSE
+RRN3,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,1.18867238449573,4.99686572444348e-8,FALSE,FALSE
+RRN3,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.438191735363766,5.51305421382731e-5,FALSE,FALSE
+SAP30BP,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,3,-0.19122071787211,0.00154779589894588,TRUE,TRUE
+SAP30BP,AM016,1,ORF disruption,ORF disruption,ORF disruption,2,-0.641790438676062,2.89463134613659e-5,FALSE,TRUE
+SF1,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,3,0.521017749176659,1.35205308627677e-6,TRUE,TRUE
+SF1,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,0.160683186285961,0.0109617724515914,FALSE,TRUE
+SMC4,AM007,1,Noncoding,Noncoding,Noncoding,1,-1.11983713059194,1.61877275876612e-7,FALSE,FALSE
+SMC4,AM016,1,Noncoding,Noncoding,Noncoding,1,-0.919131000165168,2.49605888874093e-6,FALSE,FALSE
+SRSF7,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.327902130173689,4.41378536148319e-4,FALSE,FALSE
+SRSF7,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.0988895134507842,0.103432532351361,FALSE,FALSE
+SUPT5H,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.0795684455591791,0.0252678376665404,FALSE,FALSE
+SUPT5H,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.379665294732468,1.35776805045966e-4,FALSE,FALSE
+TIMM23,AM007,1,ORF disruption,ORF disruption,ORF disruption,1,0.3195401981751,5.90431231474025e-4,FALSE,FALSE
+TIMM23,AM016,1,ORF disruption,ORF disruption,ORF disruption,1,-0.169212993972121,0.015756057717722,FALSE,FALSE
+TOMM40,AM007,1,Noncoding,Noncoding,Noncoding,1,0.231069288326545,4.29124442239058e-4,FALSE,FALSE
+TOMM40,AM016,1,Noncoding,Noncoding,Noncoding,1,-0.274312023000548,0.00127992714643787,FALSE,FALSE
+TRAPPC11,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.31582317643843,2.46281505637513e-5,FALSE,FALSE
+TRAPPC11,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.127884029213687,0.0523221956264285,FALSE,FALSE
+TRMT112,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.492826709929616,0.0103689441336482,FALSE,FALSE
+TRMT112,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.194084957327053,0.226084767663262,FALSE,FALSE
+UBR4,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.00968013146353144,0.926570429679038,FALSE,FALSE
+UBR4,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.239197198055021,0.342507869889396,FALSE,FALSE
+UBTF,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,2,-0.207065728740438,2.87185944072282e-4,FALSE,TRUE
+UBTF,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.0442015117665615,0.455003770990774,FALSE,FALSE
+UFD1L,AM007,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,0.652737643131119,1.59293727380188e-6,TRUE,TRUE
+UFD1L,AM016,2,ORF disruption,Alternative protein isoforms,ORF disruption + Alternative protein isoforms,2,0.506239654557678,2.09743733952044e-5,TRUE,TRUE
+VPS29,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.0445023240228494,0.478446088828622,FALSE,FALSE
+VPS29,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,0.0375806108247339,0.552960475329505,FALSE,FALSE
+WDHD1,AM007,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.60789388247555,1.10203830188546e-6,FALSE,FALSE
+WDHD1,AM016,1,Alternative protein isoforms,Alternative protein isoforms,Alternative protein isoforms,1,-0.670514417931172,1.68153275598664e-5,FALSE,FALSE

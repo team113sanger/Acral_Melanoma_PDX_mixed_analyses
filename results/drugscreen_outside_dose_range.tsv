@@ -1,0 +1,11 @@
+Compound	Cell_line	IC50	top	bottom	side	fold_outside	dilution_steps
+Entinostat	AM016	0.001	31.6	0.1	below bottom dose	100	4.000305098499977
+Entinostat	AM015a	0.002	31.6	0.1	below bottom dose	50	3.3981991852719515
+Entinostat	AM015b	0.002	31.6	0.1	below bottom dose	50	3.3981991852719515
+Entinostat	AM007	0.003	31.6	0.1	below bottom dose	33.333333333333336	3.0459898045710907
+Trametinib	AM015a	0.003	3.16	0.01	below bottom dose	3.3333333333333335	1.0458372553211026
+Volasertib	AM007	0.007	3.16	0.01	below bottom dose	1.4285714285714286	0.3098275501493039
+Abemaciclib	AM015a	0.023	10	0.03	below bottom dose	1.3043478260869565	0.23080444058361568
+Volasertib	AM015a	0.008	3.16	0.01	below bottom dose	1.25	0.19383480956591356
+Avapritinib	AM007	12.38	10	0.03	above top dose	1.238	0.18545543383300334
+Volasertib	AM016	0.009	3.16	0.01	below bottom dose	1.1111111111111112	0.09152196139221667

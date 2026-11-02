@@ -1,0 +1,26 @@
+panel	unit	group	class	n
+e	events	AM007	Exon skipping (ES)	2019
+e	events	AM007	Intron retention (IR)	372
+e	events	AM007	Alt 3' splice site	297
+e	events	AM007	Alt 5' splice site	136
+e	events	AM016	Exon skipping (ES)	1718
+e	events	AM016	Intron retention (IR)	228
+e	events	AM016	Alt 3' splice site	340
+e	events	AM016	Alt 5' splice site	111
+e	events	shared	Exon skipping (ES)	1059
+e	events	shared	Intron retention (IR)	139
+e	events	shared	Alt 3' splice site	175
+e	events	shared	Alt 5' splice site	53
+e	genes	shared	Exon skipping (ES)	882
+e	genes	shared	Intron retention (IR)	129
+e	genes	shared	Alt 3' splice site	93
+e	genes	shared	Alt 5' splice site	30
+g	genes	essential only	NA	742
+g	genes	overlap	NA	81
+g	genes	spliced only	NA	1077
+h	events	Exon skipping (ES)	ORF disruption	25
+h	events	Exon skipping (ES)	Alternative protein isoforms	30
+h	events	Exon skipping (ES)	Noncoding	3
+h	events	Intron retention (IR)	ORF disruption	7
+h	events	Intron retention (IR)	Alternative protein isoforms	4
+h	events	Intron retention (IR)	Noncoding	2

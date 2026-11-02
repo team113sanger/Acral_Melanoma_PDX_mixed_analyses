@@ -1,56 +1,96 @@
-# Acral Melanoma PDX - Mixed Analyses
+# Acral Melanoma PDX — Genomic and Functional Analyses
 
-This repository contains analysis scripts, metadata, and results for the Acral Melanoma PDX study, including code used to generate figures for the article.
+Analysis scripts, metadata and results for the acral melanoma (AM) patient-derived
+xenograft study, including the code that generates the figures of the manuscript
+and the additional analyses prepared in response to peer review.
 
-## Repository Overview
+## Repository structure
 
-### Key Figures Generated
-- **Figure 1b**: Overview of samples and biorepository information
-- **Figure S3b-c**: Comparison of BCS/FCS copy number burden across tumor subtypes
-- **Figure S3a**: Correlation of copy number gains and gene expression in hailstorms
-- **Figure 4a**: SNV/indel and BCS/FCS correlations between AM-PDXs and patient tumors
-- **Figure S4c**: Relative CNA and mutational signature plots
-- **Figure 5a**: Heatmap showing an overview of the pharmacological screen performed in AM-PDX-derived cell lines
+```
+INCA_res/
+├── renv.lock          R package versions
+├── data/              inputs (see Data sources)
+├── results/           everything the scripts write
+└── scripts/           one script per figure or analysis
+```
 
-## Setup & Reproducibility
+Every script follows the same format: a header listing its INPUTS and OUTPUTS,
+relative paths only, and assertions on the numbers quoted in the manuscript.
 
-### R Environment
-If you're interested in [reproducing the R environment using `renv`](https://rstudio.github.io/renv/reference/index.html) please follow the official documentation.
+## Running
+
+```bash
+cd INCA_res
+R -e 'renv::restore()'        # once
+Rscript scripts/<script>.R
+```
+
+A script that stops with `'data/' not found` was run from the wrong directory.
+
+### Paths
+
+Scripts use relative paths (`IN <- "data"`, `OUT <- "results"`) and are intended
+to be run from the project root. The `here` package is not used, and no absolute
+paths to institutional file systems are recorded anywhere in the repository.
+
+Do not set `.libPaths()` or `RENV_PROJECT` inside a script: either overrides the
+environment recorded in `renv.lock`. `renv::snapshot()` and `renv::init()` do not
+belong in a script either, since they rewrite the lockfile on every run.
+
+## Figures
+
+| script | figure |
+|---|---|
+| `Figure_1B_oncoprint.R` | 1B |
+| `Figure_3B_CNApp_tumour_vs_pdx.R` | 3B |
+| `Figure_4B_drugscreen_heatmap.R` | 4B |
+| `Figure_S5C_signatures.R` | S5C, mutational signature panels |
+| `Figure_S5C_annotation_tracks.R` | S5C, clinical annotation tracks |
+| `Figure_S5E_G_H_splicing_panels.R` | S5E, S5G, S5H |
+| `Figure_S5F_hallmark_fgsea.R` | S5F |
+| `Figure_S21_essential_genes_split_bars.R` | S21 |
+
+## Reviewer response
+
+Analyses added during revision. These do not reproduce published panels; they
+generate the figures and statistics included in the response to reviewers.
+
+| script | analysis |
+|---|---|
+| `Reviewer3_Q1_expression_atm_chek1_bra_cohort.R` | ATM/CHEK1 copy-number loss versus expression, Brazilian cohort |
+| `Reviewer3_Q1_ATM_CHEK1_hailstorm.R` | ATM/CHEK1 loss versus hailstorms
+| `Reviewer_enrichment_two_tests.R` | essential genes among differentially spliced genes |
+
+## Data sources
+
+**Sequenza segmentation output** —
+[Figshare](https://figshare.com/articles/dataset/Sequenza_segmentation_output_files/34745433)
+
+**Copy-number scores (FCS/BCS/GCS)** — generated with CNApp, run from a local installation, not the web interface, using the SEQUENZA segmentation as input, default parameters, and the ploidy that SEQUENZA estimated for that same sample. The per-sample ploidy values supplied to CNApp are in data/copy_number_BRA_adjPloidy_06_10.tsv.
+
+**Drug screen** — IC50 values and the concentration range assayed per compound
+are in Extended Data Table S7.
+
+**CRISPR dependency data** — DepMap Public 24Q4.
+
+**Gene sets** — MSigDB Hallmark collection, via `msigdbr`.
+
+## Environment
+
+- R version: 4.4.1
+- Package versions: `renv.lock`
 
 ```R
-# Install renv if needed
 if (!require("renv")) install.packages("renv")
-
-# Restore the project environment
 renv::restore()
 ```
 
-**Environment Details:**
-- R version: 4.4.1
-- Dependencies: See `renv.lock` in each analysis folder
+## Authorship note
 
-### File Path Management
-We used the `here` package for robust path handling:
-- Automatically detects project root
-- Creates platform-independent paths
-- Seamless RStudio integration
+The drug-screen analysis (`Figure_4B_drugscreen_heatmap.R`) was developed by
+Aguiar F.C., Carvalho D.G. and Sousa-Squiavinato A.C.M.
 
-## Data Sources
+## Contact
 
-1. **Sequenza Output Data**:  
-   Available at [Figshare](https://doi.org/10.6084/m9.figshare.29088173)
-
-2. **Copy Number Scores (FCS/BCS)**:  
-   Generated using [CNApp](https://tools.idibaps.org/CNApp/) with:
-   - SEQUENZA segmentation data as input
-   - Default parameters
-
-## Additional Notes
-- All scripts are contained in the `scripts/` directory
-- Each analysis folder contains its specific dependencies
-- Analysis from 06 script was created by Aguiar F.C., Carvalho D.G and Sousa Squiavinato A.C.M.
-
-## ✉️ Contact
-For questions about this repository or analyses:  
-**Annie Cristhine Moraes Sousa Squiavinato**  
-📧 annie.sousa@ensino.inca.gov.br or as81@sanger.ac.uk
+**Annie Cristhine Moraes Sousa-Squiavinato**
+annie.sousa@ensino.inca.gov.br · as81@sanger.ac.uk

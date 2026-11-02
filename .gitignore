@@ -6,6 +6,13 @@
 # Session Data files
 .RData
 .RDataTmp
+.Rhistory
+.RData
+.Rapp.history
+*.Rproj.user/
+.DS_Store
+~$*.xlsx
+.~lock.*#
 
 # User-specific files
 .Ruserdata
@@ -18,9 +25,6 @@
 
 # Output files from R CMD check
 /*.Rcheck/
-
-# RStudio files
-.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
@@ -53,5 +57,11 @@ rsconnect/
 # R package: bookdown caching files
 /*_files/
 
-#Large files
-data/BrazilianPop_PairedSamples_Hum-PDX_SequenzaFiles_Jan2025
+
+#folder to ignore
+package_version/
+
+renv/library/
+renv/local/
+renv/staging/
+renv/sandbox/

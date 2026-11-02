@@ -1,0 +1,4 @@
+score	.y.	n	statistic	df	p	method	p.signif
+BCS	value	39	5.407598958861498	4	0.248	Kruskal-Wallis	ns
+FCS	value	39	7.371790523438293	4	0.117	Kruskal-Wallis	ns
+GCS	value	39	9.074122807017545	4	0.0593	Kruskal-Wallis	ns

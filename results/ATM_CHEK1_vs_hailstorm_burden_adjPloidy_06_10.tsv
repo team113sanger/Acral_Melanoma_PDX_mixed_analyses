@@ -1,0 +1,3 @@
+Gene	n_Loss	n_Neutral	med_Loss	med_Neutral	p_value	ploidy_source	cn_table
+ATM	22	15	3	2	0.15320018511329456	mean_ploidy_adj	copy_number_BRA_adjPloidy_06_10.tsv
+CHEK1	24	15	3	2	0.06425586644061193	mean_ploidy_adj	copy_number_BRA_adjPloidy_06_10.tsv

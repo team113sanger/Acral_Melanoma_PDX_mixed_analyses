@@ -1,0 +1,3 @@
+test	N	K	n	observed	expected	fold	p_value
+hypergeometric, all expressed genes	16000	823	1158	81	59.6	1.36	0.0027224781678310225
+permutation, matched on expression and length	10648	746	1117	78	80.6	0.97	0.645035496450355
